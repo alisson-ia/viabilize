@@ -1,0 +1,15 @@
+fastapi
+asyncpg
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+python-dotenv
+streamlit
+requests
+sqlalchemy 
+psycopg2-binary
+openai
+python-decouple
